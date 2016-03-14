@@ -102,7 +102,7 @@ reference in [flex course](https://css-tricks.com/snippets/css/a-guide-to-flexbo
   }
   ```
   
-- **align-contens** 属性  
+- **align-conten** 属性  
   如果副轴有空余, 定义内容的对齐方式，类似justify-content属性  
   ![如图所示](https://css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
 - **align-items** 属性  
