@@ -1,0 +1,129 @@
+@charset "utf-8";
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-italic {
+  font-style: italic;
+}
+span {
+  color: lightblue;
+}
+
+.container {
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.flex-bg {
+  background-color: #ddd;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-column-reverse {
+  flex-direction: column-reverse;
+}
+.item {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  background-color: lightgreen;
+}
+.flex-row, .flex-row-reverse {
+  display: flex;
+  height: 50px;
+  width: 50%;
+  margin: 0 auto;
+}
+.flex-row .item, .flex-row-reverse .item {
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+}
+.flex-column, .flex-column-reverse {
+  display: flex;
+  height: 120px;
+  width: 60%;
+  margin: 0 auto;
+}
+.flex-column .item, .flex-column-reverse .item {
+  width: 50%;
+}
+.justify-content-flex-start {
+  justify-content: flex-start;
+}
+.justify-content-flex-end {
+  justify-content: flex-end;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-space-between {
+  justify-content: space-between;
+}
+.justify-content-space-around {
+  justify-content: space-around;
+}
+.align-items-flex-start {
+  align-items: flex-start;
+}
+.align-items-flex-end {
+  align-items: flex-end;
+}
+.align-items-center {
+  align-items: center;
+}
+.align-items-stretch {
+  align-items: stretch;
+}
+.align-items-baseline {
+  align-items: baseline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
