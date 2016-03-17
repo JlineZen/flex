@@ -1,5 +1,6 @@
-# Flex属性的用法
-关于对CSS3 Flex弹性盒模型的一篇简单学习教程。
+## Flex属性的用法
+
+关于对CSS3 Flex弹性盒模型的一篇简单[学习教程](http://jlinezen.github.io./2016/03/17/Flex-%E6%95%99%E7%A8%8B/#more)。
 
 ## Flex 属性的浏览器兼容性
 
